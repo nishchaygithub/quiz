@@ -29,11 +29,11 @@ The main program is implemented in the `main` function, which provides a user-fr
 ## Usage
 1. Compile the program using a C++ compiler:
    ```bash
-   g++ main.cpp -o wildlife_program
+   g++ main.cpp -o main.cpp
    ```
 2. Run the program:
    ```bash
-   ./wildlife_program
+   ./main.cpp
    ```
 3. The program will display a welcome message and prompt you to choose an option:
    - To learn about an animal, enter the corresponding number (e.g., 1 for Lion) and press Enter.
